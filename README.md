@@ -9,5 +9,5 @@ The objective of Old Games Plus is to work our way through the winners of Golden
 
 ## Repos
 
-[### Jetpac (1983)](https://github.com/andrewsanderson/OGP-Jetpac)
+###[Jetpac (1983)](https://github.com/andrewsanderson/OGP-Jetpac)
 
